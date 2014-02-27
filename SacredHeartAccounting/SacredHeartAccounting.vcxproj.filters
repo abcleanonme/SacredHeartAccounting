@@ -18,5 +18,13 @@
     <ClCompile Include="SacredHeartAccounting.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SacredHeartAccounting_Imp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SacredHeartAccounting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

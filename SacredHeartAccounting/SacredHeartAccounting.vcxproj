@@ -65,6 +65,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="SacredHeartAccounting.cpp" />
+    <ClCompile Include="SacredHeartAccounting_Imp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SacredHeartAccounting.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

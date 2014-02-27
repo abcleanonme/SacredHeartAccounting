@@ -17,3 +17,15 @@
 						Signature____________________________
 						*/
 
+#include <iostream>
+
+#include "SacredHeartAccounting.h"
+#include "SacredHeartAccounting_Imp.cpp"
+
+int main() {
+
+
+
+	system("PAUSE");
+	return 0;
+}
